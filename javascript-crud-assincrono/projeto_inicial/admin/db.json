@@ -4,6 +4,11 @@
       "nome": "felipe",
       "email": "felipe@email.com",
       "id": 2
+    },
+    {
+      "nome": "leo",
+      "email": "leo@email.com",
+      "id": 3
     }
   ]
 }
